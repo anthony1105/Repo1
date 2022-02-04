@@ -1,0 +1,1 @@
+keytool -import -alias SignIQ -keystore "C:\Program Files\Zulu\zulu-11\lib\security\cacerts" -file ""C:\SignIQ\Zscaler Root CA.cer""
